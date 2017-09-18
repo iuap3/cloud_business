@@ -1,0 +1,30 @@
+{ 
+ "title": "云商务帮助", 
+ "desc": "云商务系统目前开通已实现部分产品，现采用激活码开通方式，企业空间、超客营销、U会员、U订货，以上
+
+产品订单财务审批完成后，自动发送激活码至“订单提交人”邮箱内，可采用激活码在客户实际使用的企业中激活，如
+
+客户未使用过产品，需先在产品官网中自主注册。", 
+ "list": [ 
+ { 
+ "title": "快速下单", 
+ "link": "#/md-build/cloud_business/articles/business/2-/xiadan.md", 
+ "desc": "介绍快速下单的操作流程" 
+ }, 
+ { 
+ "title": "订单编辑", 
+ "link": "#/md-build/cloud_business/articles/business/2-/bianji.md", 
+ "desc": "介绍订单编辑的操作流程" 
+ }, 
+ { 
+ "title": "登录问题", 
+ "link": "#/md-build/cloud_business/articles/business/4-/denglu.md", 
+ "desc": "介绍有关登录的常见问题" 
+ }, 
+ { 
+ "title": "下单问题", 
+ "link": "#/md-build/cloud_business/articles/business/4-/xiad.md", 
+ "desc": "介绍有关下单的常见问题" 
+ } 
+ ] 
+ } 
